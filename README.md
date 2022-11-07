@@ -10,16 +10,16 @@
         
         *    A vector of Bone all the parts of the robot, including torso, head, upper hands, lower hands, upper legs and lower leg.
         *    They have unique IDs:
-            *    Torso ->0
-            *    Head  ->1
-            *    Upper right hand ->2
-            *    Lower right hand ->3
-            *    Upper left hand ->4
-            *    Lower left hand ->5
-            *    Upper right leg  ->6
-            *    Lower right leg  ->7
-            *    Upper left leg  ->8
-            *    Lower left leg  ->9      
+        *    Torso ->0
+        *    Head  ->1
+        *    Upper right hand ->2
+        *    Lower right hand ->3            
+        *    Upper left hand ->4
+        *    Lower left hand ->5
+        *    Upper right leg  ->6
+        *    Lower right leg  ->7
+        *    Upper left leg  ->8
+        *    Lower left leg  ->9      
     * Bone:
         * Is the basic element of the robot
         * It stores one part's position, rotation, texture, vao and vbo.
