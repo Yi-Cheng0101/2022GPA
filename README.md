@@ -19,15 +19,11 @@
             *    Upper right leg  ->6
             *    Lower right leg  ->7
             *    Upper left leg  ->8
-            *    Lower left leg  ->9
-        * To oraganize robot from bones
-        ![](https://i.imgur.com/Nbje9KA.png)
+            *    Lower left leg  ->9      
     * Bone:
         * Is the basic element of the robot
         * It stores one part's position, rotation, texture, vao and vbo.
-        * ![](https://i.imgur.com/w4CYeLl.png)
-
-    * ![](https://i.imgur.com/n4a0Tgh.png)
+        ![](https://i.imgur.com/n4a0Tgh.png)
 
     * body_trans:
         * They have unique IDs
